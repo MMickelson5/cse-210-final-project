@@ -1,0 +1,45 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "04-hilo",
+            "type": "python",
+            "request": "launch",
+            "program": "hilo",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/04-hilo"
+        },
+        {
+            "name": "05-jumper",
+            "type": "python",
+            "request": "launch",
+            "program": "jumper",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/05-jumper"
+        },
+        {
+            "name": "06-mastermind",
+            "type": "python",
+            "request": "launch",
+            "program": "mastermind",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/06-mastermind"
+        },
+        {
+            "name": "07-speed",
+            "type": "python",
+            "request": "launch",
+            "program": "speed",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/07-speed"
+        },
+        {
+            "name": "08-batter",
+            "type": "python",
+            "request": "launch",
+            "program": "batter",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/08-batter"
+        }
+    ]
+}
